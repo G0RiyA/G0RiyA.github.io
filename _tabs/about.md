@@ -66,7 +66,7 @@ order: 4
 \- 4th place (StarBugs)
 
 <strong>justCTF [*] 2020</strong><br>
-\- 1st place (AlPray)
+\- 1st place (AlPray) 🏆
 
 <br>
 <strong>\+ Many high places on CTFs as [@SuperGuesser](https://gusser.team)</strong>

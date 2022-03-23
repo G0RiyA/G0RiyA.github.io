@@ -72,7 +72,7 @@ order: 4
 <strong>\+ Many high places on CTFs as [@SuperGuesser](https://gusser.team)</strong>
 
 ---
-# Organizations
+# Organizings
 
 <strong>24th Hacking Camp</strong><br>
 \- 문제 출제 및 운영

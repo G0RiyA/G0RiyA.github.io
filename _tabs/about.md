@@ -19,7 +19,7 @@ order: 4
 <strong>Software Maestro</strong><br>
 \- 12th trainee | 2021
 
-<strong>SSU Cyber Security Lab</strong><br>
+<strong>SSU Cyber Security Research Center</strong><br>
 \- Cyber Security Challenge (AGL pwning) | 2021
 
 ---

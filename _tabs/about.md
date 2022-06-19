@@ -69,7 +69,7 @@ order: 4
 \- 1st place (AlPray) 🏆
 
 <br>
-<strong>\+ Many high places on CTFs as [@SuperGuesser](https://gusser.team)</strong>
+<strong>\+ Many high places on CTFs as [@SuperGuesser](https://guesser.team)</strong>
 
 ---
 # Organizings
